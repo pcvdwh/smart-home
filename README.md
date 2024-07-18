@@ -1,8 +1,8 @@
 # smart-home
 
--[ ] slim slot  
--[ ] slimme verlichting woonkamer  
--[ ] slimme verlichting keuken  
--[ ] slimme verlichting tuinkamer  
--[ ] slimme verlichting hal  
--[ ] slimme verlichting trap  
+:ballot_box_with_check: slim slot  
+:ballot_box_with_check: slimme verlichting woonkamer  
+:ballot_box_with_check: slimme verlichting keuken  
+:ballot_box_with_check: slimme verlichting tuinkamer  
+:ballot_box_with_check: slimme verlichting hal  
+:ballot_box_with_check: slimme verlichting trap  
