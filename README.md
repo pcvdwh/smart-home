@@ -1,7 +1,7 @@
 # smart-home
 
-https://github.com/maxi1134/Home-Assistant-Config
-https://gist.github.com/rxaviers/7360908
+https://github.com/maxi1134/Home-Assistant-Config  
+https://gist.github.com/rxaviers/7360908  
 https://www.markdownguide.org/
 
 :ballot_box_with_check: slim slot  
