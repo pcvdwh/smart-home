@@ -1,6 +1,6 @@
 projects
-|  id | naam        | doel | :arrow_down_small::battery: | :arrow_down_small: geld | comfort | veilig | monitor | hobby | init datum |
-|-----|-------------|------|----------------------------|-------------------------|---------|--------|---------|-------|------------|
-| 001 | verlichting |      |                          Y |                     Y   |     Y   |    Y   |    N    |   N   |            |
-| 002 | sloten      |      |                          N |                     N   |     Y   |    Y   |         |       |            |
-| 003 |             |      |                            |                         |         |        |         |       |            |
+|  id | naam        | doel |:battery:         |:moneybag:        |:sunglasses:      |:lock:            |:mag:             |:microscope:      | init datum |
+|-----|-------------|------|------------------|------------------|------------------|------------------|------------------|------------------|------------|
+| 001 | verlichting |      |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:               |:x:               |            |
+| 002 | sloten      |      |:x:               |:x:               |:white_check_mark:|:white_check_mark:|:x:               |:x:               |            |
+| 003 | beregening  |      |:x:               |:grey_question:   |:white_check_mark:|:x:               |:white_check_mark:|:white_check_mark:|            |
